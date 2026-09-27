@@ -1,0 +1,6 @@
+{
+  "name": "MineWorld",
+  "description": "Playable 2D Minecraft sandbox, crafting guide, potion stand simulator, Nether portal calculator, waypoints tracker, and mob bestiary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
